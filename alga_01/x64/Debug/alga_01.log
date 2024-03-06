@@ -1,0 +1,3 @@
+﻿  kosar.cpp
+C:\Munka\Algoritmusok_es_adatstrukturak\alga_01\kosar.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  alga_01.vcxproj -> C:\Munka\Algoritmusok_es_adatstrukturak\alga_01\x64\Debug\alga_01.exe
